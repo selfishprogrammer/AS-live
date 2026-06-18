@@ -18,7 +18,10 @@
       "package": "com.example.postsapp"
     },
     "extra": {
-      "apiUrl": "https://your-deployed-api.example.com"
+      "apiUrl": "http://localhost:3000",
+      "eas": {
+        "projectId": "afda91fe-b79f-4933-8d10-ab3c96bbd7c1"
+      }
     }
   }
 }
